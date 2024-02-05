@@ -1,0 +1,19 @@
+.PlaybackControlsContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.PlaybackControlsButton {
+    background-color: #007bff;
+    color: while;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.PlaybackControlsButton:hover {
+    background-color: #0056b3
+}

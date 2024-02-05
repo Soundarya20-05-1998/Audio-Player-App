@@ -1,0 +1,23 @@
+.Playlist-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.playlist-list {
+    list-style:none;
+    padding: 0;
+    margin: 0;
+}
+
+.playlist-item {
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+}
+
+.Playlist-item:hover {
+    background-color: #e0e0e0;
+}
